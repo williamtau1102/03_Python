@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b483a6e1-2ed2-44c8-94f1-51f616db0541" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../12306/12306.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12306/12306.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12306/12306/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12306/bibi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12306/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站弹幕/barrage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站弹幕/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站滑块验证码破解/B站滑块验证码破解/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站滑块验证码破解/B站滑块验证码破解/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站滑块验证码破解/B站滑块验证码破解/Tracks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站滑块验证码破解/B站滑块验证码破解/bilibiliCrack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B站滑块验证码破解/B站滑块验证码破解/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/.idea/GUI签名.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/sign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/sign.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/sign/sign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/居然.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUI签名/签名设计.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python制作简易时钟/clock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/51job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/51job.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/data.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/results/Python相关岗位有哪些.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/results/Python相关岗位有哪些.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/results/部分地区Python相关岗位招聘需求量.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/results/部分地区Python相关岗位招聘需求量.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/results/部分城市Python相关岗位平均薪资柱状图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/Python爬取并简单分析51Job数据/results/部分城市Python相关岗位平均薪资柱状图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/data.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/demo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/results/Python相关岗位有哪些.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/results/部分地区Python相关岗位招聘需求量.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/results/部分城市Python相关岗位平均薪资柱状图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python爬取并简单分析51Job数据/搜索引擎-逻辑.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/pass.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/password.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/wifi.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/wifi_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/wifi_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/wifi_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WiFi测试/wifipwd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python实现代码雨效果/python实现代码雨效果/CodeRain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python实现代码雨效果/python实现代码雨效果/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python实现代码雨效果/python实现代码雨效果/font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/Tracks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/captcha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/ghostdriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/reglist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/slider_captcha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/sources/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/sources/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/sources/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/sources/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python破解滑块验证码/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tkinter计算器/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web安全/1-信息收集.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../xlwt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../【Python】视频转字符动画/Video2Ca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../【Python】视频转字符动画/badapple.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../【Python】视频转字符动画/badapple_color.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../【Python】视频转字符动画/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../【Python】视频转字符动画/test0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../【Python】视频转字符动画/test1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../二维码生成器/genQrcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../二维码生成器/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect/detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect/detect.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect/test/result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect/test/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect/test/test1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/detect/test/test2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/test/result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/test/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/test/test1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../人工智能/test/test2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../你生日那天的宇宙/01-08/hubblesee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../你生日那天的宇宙/01-08/intro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../你生日那天的宇宙/HubbleSee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../你生日那天的宇宙/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../你生日那天的宇宙/resources/hubble-birthdays-full-year.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../你生日那天的宇宙/resources/icon/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../动态更新地球壁纸/earthWallpaper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../动态更新地球壁纸/earthWallpaper.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../动态更新地球壁纸/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/SucculentQuery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/modules/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/modules/crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/AK玛利亚/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/AK玛利亚/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿伦培/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿伦培/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿吉塔玫瑰/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿吉塔玫瑰/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴丝绸/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴丝绸/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴比缇 Echeveria Alba Beauty/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴比缇 Echeveria Alba Beauty/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴琳娜/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴琳娜/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴白月影/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴白月影/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴神刀/info.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多肉数据查询系统/resources/succulents/阿尔巴神刀/show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/ic.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/image/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/index1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/jd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../妹子/meizitu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../快递查询/V1.0/py/inquiryExpress/companies.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../快递查询/V1.0/py/inquiryExpress/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../快递查询/V1.0/py/inquiryExpress/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../快递查询/V1.0/py/inquiryExpress/inquiryExpress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../快递查询/V1.0/py/inquiryExpress/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../快递查询/V1.0/py/inquiryExpress/简易版.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../截图工具/baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../截图工具/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../截图工具/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../截图工具/test.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../截图工具/截图工具.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/dy_test.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-Analysis.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-EXE.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-PKG.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-PKG.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-PYZ.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-PYZ.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out00-Tree.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/out01-Tree.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/warndy_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/build/dy_test/xref-dy_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/cc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/dist/cc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/dist/小姐姐.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/dy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/dy.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/dy_test.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/love.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/love_dy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/sendEmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/xin.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/心.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../抖音表白/抖音.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/demo.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/douyu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/face_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/#请求渡劫.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/6.6两周年快乐！！.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/刚刚好女孩.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/恩恩莫说她还要再想想.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/招聘南京的拆迁户造超火？.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/爱美之心人皆有之，你不爱我你不是人.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/祝高考的小伙伴们取得优异成绩.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/芳华是一指流沙.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/image/长沙小姐姐跳舞第一天直播~.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取斗鱼颜值主播/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取简书个人文章/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬明日小说/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/bgimages/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/bgimages/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/bgimages/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/bgimages/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/bgimages/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/contents/1.card" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/fonts/font.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/generateCard(1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../生成新年祝福贺卡/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电影小助手/API/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电影小助手/API/douban.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电影小助手/API/paofan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电影小助手/movieHelper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../电影小助手/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../百度搜索引擎/bd_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../百度搜索引擎/bd_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../百度搜索引擎/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../私人邮件获取/QQ邮箱.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../私人邮件获取/User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../私人邮件获取/baidu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../私人邮件获取/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../简单计时器/Timer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../简单计时器/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../美白/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../美白/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../美白/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../美白/face.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../美白/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/.idea/翻译.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/baidu_fy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/.idea/fanyi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-Analysis.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-EXE.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-PKG.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-PKG.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-PYZ.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-PYZ.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out00-Tree.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/out01-Tree.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/translate.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/warntranslate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/build/translate/xref-translate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/dist/translate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/qm.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/translate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/translate.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/fanyi/加密.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../翻译/translate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../视频下载/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../视频下载/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../视频下载/video/NASA暂时关闭两个火箭基地，美国重返月球计划遇阻.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../视频下载/video/世界最快超级计算机找到77个化学物质，可阻止新冠病毒传播.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../视频下载/video/消毒测温一体盔甲，用科技对抗疫情！.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../视频下载/视频下载.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../让电脑蜂鸣器哼歌/ComputerSinger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../让电脑蜂鸣器哼歌/icon/icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../让电脑蜂鸣器哼歌/musicfiles/小幸运" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../让电脑蜂鸣器哼歌/musicfiles/逍遥叹" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../让电脑蜂鸣器哼歌/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/.idea/记录键盘.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/QQ轰炸机.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/TGPlogin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/dn_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/douban_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/fy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/jp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/keylogger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/password.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/webWeixinQr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/wxlogin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../记录键盘/字符串.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../飞机大战/windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../飞机大战/飞机大战.ppt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="37xLE6FMlKwhkcDIK6axCFoYqNQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.clock.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b483a6e1-2ed2-44c8-94f1-51f616db0541" name="Changes" comment="" />
+      <created>1767839661098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767839661098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clock.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
